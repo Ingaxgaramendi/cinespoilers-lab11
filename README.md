@@ -2,11 +2,11 @@
 
 ## Integrantes del grupo
 
-| N°  | Nombre del integrante   | Parte desarrollada                                    |
-| --- | ----------------------- | ----------------------------------------------------- |
-| 1   | Yojhan Huanca           | Consumo de API TMDB e interfaz de peliculas populares |
-| 2   | Nombre del integrante 2 | Describir su parte                                    |
-| 3   | Nombre del integrante 3 | Describir su parte                                    |
+| N°  | Nombre del integrante | Parte desarrollada                                    |
+| --- | --------------------- | ----------------------------------------------------- |
+| 1   | Yojhan Huanca         | Consumo de API TMDB e interfaz de peliculas populares |
+| 2   | Anderson rivera       | lo mismo que el de arriba y que el de abajo           |
+| 3   | NCarlos carbajal      | consumo de apis                                       |
 
 ---
 
