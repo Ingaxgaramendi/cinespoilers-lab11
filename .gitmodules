@@ -4,3 +4,6 @@
 [submodule "CinnSin"]
 	path = CinnSin
 	url = https://github.com/yojhanHuanca/CinnSin.git
+[submodule "Cinespoiler_Carbajal"]
+	path = Cinespoiler_Carbajal
+	url = https://github.com/Gonnarch/Cinespoiler_Carbajal
