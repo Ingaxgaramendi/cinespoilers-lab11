@@ -1,4 +1,4 @@
-# Reporte del Proyecto Grupal
+# CAPIBARES 17 🦫🦫🦫 (los mas gossu)
 
 ## Integrantes del grupo
 
@@ -6,7 +6,7 @@
 | --- | --------------------- | ----------------------------------------------------- |
 | 1   | Yojhan Huanca         | Consumo de API TMDB e interfaz de peliculas populares |
 | 2   | Anderson rivera       | lo mismo que el de arriba y que el de abajo           |
-| 3   | NCarlos carbajal      | consumo de apis                                       |
+| 3   | NCarlos carbajal      | consumo de apis y renderizado                         |
 
 ---
 
@@ -110,12 +110,6 @@ Se creo una interfaz visual para mostrar las peliculas populares en tarjetas res
 - Estado de error.
 - Boton para actualizar la informacion.
 - Interfaz oscura con estilo cinematografico.
-
-## Comandos usados
-
-    npm install
-    npm run dev
-    npx tsc -b
 
 ## Repositorio de mi parte
 
@@ -235,15 +229,9 @@ cd cinespoilers
 # Instalar dependencias
 npm install
 
-# Configurar variables de entorno
-cp .env.example .env
-# Agregar tu TMDB API Key en .env
-
 # Iniciar servidor de desarrollo
 npm run dev
 ```
-
----
 
 ## 📸 Evidencias
 
