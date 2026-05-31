@@ -12,7 +12,7 @@
 
 # Reporte Individual - CineSpoilerS
 
-## Integrante
+# Integrante
 
 **Nombre:** Yojhan Huanca  
 **Proyecto:** CineSpoilerS  
@@ -115,7 +115,7 @@ Se creo una interfaz visual para mostrar las peliculas populares en tarjetas res
 
 https://github.com/yojhanHuanca/CinnSin
 
-## Integrante
+# Integrante
 
 **Nombre:** Anderson Rivera
 **Proyecto:** CineSpoilerS  
@@ -180,7 +180,7 @@ A continuación se presentan las capturas en orden, con títulos claros y profes
 7. **Mostrar datos en consola**
    ![Mostrar en consola](capturas/mostrarenconsola.png)
 8. **Captura general**
-   ![Captura general](capturas/image.png)
+   ![Captura general](capturas/renderizado.png)
 
 ## Configuración de API
 
@@ -193,7 +193,7 @@ VITE_TMDB_API_KEY=tu_clave_tmdb_aqui
 
 3. Reinicia el servidor de desarrollo si está en ejecución.
 
-## Integrante
+# Integrante
 
 **Nombre:** Carlos Carbajal
 **Proyecto:** CineSpoilerS  
